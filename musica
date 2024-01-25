@@ -1,0 +1,65 @@
+<!DOCTYPE html public "htpps://musica.com.mx">
+<html lang="es">
+
+   
+<head>
+<title>musica  de todo tipo</title>
+
+<meta  charset="800 millones">
+<meta name="descripcion" content="musica de este post">
+</head>
+<body>
+<hl>esta pagina es para la musica popular    </hl>
+<p> esta pagina es para la musica  </p>
+<h2>¿top 10 de las musicas mas escuchadas?</h2>
+<p>en esta pagina</p>
+<ol>
+<li>Sebastián Yatra - Tacones Rojos (Official Video)</li>
+<li>Maluma - Felices los 4 (Official Video)</li>
+<li>Maluma - Cuatro Babys </li>
+<li>Maluma - Sin Contrato (Official Video)</li>
+<li>BLACKPINK - 'Kill This Love' M/V</li>
+<li>BLACKPINK - ‘뚜두뚜두 (DDU-DU DDU-DU) M/V</li>
+<LI> REGGAETON CHAMPAGNE - Bellakath ft Dani Flow (Video Oficial)</LI>
+<li>Bad Gyal, Young Miko, Tokischa - Chulo pt.2 - (Official Video)</li>
+</ol>
+<h2> estos son los videos de las musicas mas escuchadas</h2>
+<p>en el puesto 1 <a targer="_blank" href="https://www.youtube.com/watch?v=Qz9gmiLBVFA&list=RDGMEMYvZjTda73N9EL0Qo2TnYngVMt_jHrUE5IOk&index=9">post1</a>sebastian Yatra</p>
+<p>en el puesto 2 <a targer="_blank" href="https://www.youtube.com/watch?v=t_jHrUE5IOk&list=RDGMEMYvZjTda73N9EL0Qo2TnYngVMt_jHrUE5IOk&index=1">post 2</a>Maluma</p>
+<p>en el puesto 3 <a targer="_blank" href="https://www.youtube.com/watch?v=OXq-JP8w5H4&list=RDGMEMYvZjTda73N9EL0Qo2TnYngVMt_jHrUE5IOk&index=2"> post3 </a>Maluma </p>
+<p>en el puesto 4 <a targer="_blank" href="https://www.youtube.com/watch?v=9xByMBYDRmY&list=RDGMEMYvZjTda73N9EL0Qo2TnYngVMt_jHrUE5IOk&index=5"> post 4</a>maluma  </p>
+<p>en el puesto 5 <a targer="_blank" href="https://www.youtube.com/watch?v=2S24-y0Ij3Y" >post 5</a>BLACKPINK</p>
+<p>en el puesto 6 <a targer= "_blank"href="https://www.youtube.com/watch?v=IHNzOHi8sJs">post 6 </a>BLACKPINK </p>
+<p>en el puesto 7 <a  targer="_blank" href="https://www.youtube.com/watch?v=h6qbOjac8qo">post 7 </a>dani Flow</p>
+<p>en el puesto 8 <a  targer="_blank" href="https://www.youtube.com/watch?v=tnbpWZNAT_Y">post 8</a>Chulo</p>
+<li>estos son los links de los videos</li>
+<li>estos son los videos mas vistos de internet y gratis hasta su sala de su casa</li>
+
+<!DOCTYPE html>
+<html>
+     <head>
+        <video  src="C:\Users\crist\OneDrive\Documentos\tec\videos\Becky G - MALA SANTA (Álbum Visual).mp4" width="320" controls></video>
+        
+        <video src ="C:\Users\crist\OneDrive\Documentos\tec\videos\Arcangel, Bad Bunny - La Jumpa (Video Oficial) _ SR. SANTOS.mp4"   width="320" controls></video>
+        
+        <video src ="C:\Users\crist\OneDrive\Documentos\tec\videos\Sebastián Yatra, Manuel Turizo, Beéle - VAGABUNDO (Official Video).mp4" width="320" controls></video>
+        
+        <video  src="C:\Users\crist\OneDrive\Documentos\tec\videos\Los Socios Del Ritmo, Samo - El Año Viejo.mp4"  width="320" controls></video>
+        
+        <video   src="C:\Users\crist\OneDrive\Documentos\tec\videos\Khea - Loca ft. Duki & Cazzu (Prod. Omar Varela & Mykka).mp4"  width="320"  controls></video>
+
+        <video  src="C:\Users\crist\OneDrive\Documentos\tec\videos\Becky G, NATTI NATASHA - Sin Pijama (Official Video).mp4"       width="320"   controls></video>
+
+        <video  src="C:\Users\crist\OneDrive\Documentos\tec\videos\Natti Natasha ❌ Bad Bunny - Amantes de Una Noche 👩🏻 🌹🐰  [Official Video].mp4" width="320" controls></video>
+         
+        <video  src="C:\Users\crist\OneDrive\Documentos\tec\videos\y2mate.bz - Anuel AA - Brindemos feat. Ozuna (Video Oficial).mp4"  width="320"  controls></video>
+
+        
+         <script>
+
+        </script>
+     </head>
+     <body><div id="bs"></div></body>
+</body>
+
+</html>
